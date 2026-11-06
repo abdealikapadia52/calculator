@@ -1,0 +1,6 @@
+{
+  "name": "12-Digit Desk Calculator",
+  "description": "A precision 12-digit electronic desk calculator featuring memory registers, paper tape audit history, rounding controls, tax calculation, and keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
